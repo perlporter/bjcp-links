@@ -9,12 +9,12 @@
 
 # 11B - Best Bitter
 
-- Adnams Southwold Bitter - (https://adnams.co.uk)
-- Fuller's London Pride - (https://www.fullersbrewery.co.uk)
-- Harvey's Sussex Best Bitter - (https://www.harveys.org.uk)
-- Salopian Darwin’s Origin - (https://www.salopianbrewery.co.uk)
-- Surrey Hills Shere Drop - (https://surreyhills.co.uk)
-- Timothy Taylor Landlord - (https://www.timothytaylor.co.uk)
+- Adnams Southwold Bitter - https://adnams.co.uk
+- Fuller's London Pride - https://www.fullersbrewery.co.uk
+- Harvey's Sussex Best Bitter - https://www.harveys.org.uk
+- Salopian Darwin’s Origin - https://www.salopianbrewery.co.uk
+- Surrey Hills Shere Drop - https://surreyhills.co.uk
+- Timothy Taylor Landlord - https://www.timothytaylor.co.uk
 
 # 11C - Strong Bitter
 
